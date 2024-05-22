@@ -1,0 +1,23 @@
+{
+  
+  "name":"adventur_game",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "bin":"index.js",
+  "description": "game",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.12",
+    "typescript": "^4.5.2"
+  },
+  "scripts": {
+    "build": "tsc"
+    
+
+  }
+}
+
